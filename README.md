@@ -1,2 +1,2 @@
 # project1
-sample project for file editing
+sample projeect for file editing
